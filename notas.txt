@@ -1,0 +1,12 @@
+cosas a tomar en cuente:
+
+tipo de fuente: poppins bold 55px
+titulo / h3 / poppins bold 36px
+subtitulo / h6 / poppins bold 16px
+parrafo / poppins regular 15px
+extra / poppins semibold 16px
+
+imagenes
+paleta de colores
+
+la etiqueta a sirve para conectar hipervinculos a letras, es decir, los dirige a otras paginas
